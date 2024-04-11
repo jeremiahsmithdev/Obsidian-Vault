@@ -47,7 +47,7 @@ A list of uncategorised notes.
 
 [[Vanessa Website]]
 
-[[5 AI job search tools you shouldn't miss 👇🏻]]
+[[5 AI job search tools you shouldn't miss]]
 
   
 

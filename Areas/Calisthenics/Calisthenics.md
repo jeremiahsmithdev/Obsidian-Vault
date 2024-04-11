@@ -2,4 +2,4 @@
 
   
 
-[[Areas/Calisthenics/🔗 link — CORTEX Plate Loaded Weight Vest|🔗 link — CORTEX Plate Loaded Weight Vest]]
+[[L link — CORTEX Plate Loaded Weight Vest|L link — CORTEX Plate Loaded Weight Vest]]

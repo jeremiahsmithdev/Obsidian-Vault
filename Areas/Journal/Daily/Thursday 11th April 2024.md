@@ -14,6 +14,5 @@ Date: 2024-04-11
 - [ ] set up hammock
 
 ## tomorrow
+[[Friday 12th April 2024]]
 Centrelink stuff 
-
-Minor change

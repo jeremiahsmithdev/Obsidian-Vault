@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
+                "file": "Areas/Journal/Friday 12th April 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
+                "file": "Areas/Journal/Friday 12th April 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
+                "file": "Areas/Journal/Friday 12th April 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md"
+                "file": "Areas/Journal/Friday 12th April 2024.md"
               }
             }
           },
@@ -205,39 +205,40 @@
       "obsidian-importer:Open Importer": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "0eb810090fc9d7f9",
   "lastOpenFiles": [
-    "Areas/Journal/Journal.md",
     "Areas/Journal/Daily/Thursday 11th April 2024.md",
+    "Areas/Journal/Friday 12th April 2024.md",
+    "Areas/Journal/Daily/Wednesday 10th April 2024.md",
     "Areas/Journal/Daily/Thursday 11th April 2024.sync-conflict-20240411-174953-MLRO5E5.md",
+    "Areas/Quick Notes/5 AI job search tools you shouldn't miss.md",
+    "New note.md",
+    "2024-04-11.md",
+    "Areas/Quick Notes/5 AI job search tools you shouldn't misss.md",
+    "Areas/Career/Certifications/L link — Building Web Applications in Django.md",
+    "Areas/Career/Certifications/L link — Advanced Django- Building a Blog.md",
+    "Areas/Career/Certifications/L link — Web Application Technologies and Django.md",
+    "Projects/Project List/BASB/Llink — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy.md",
+    "Areas/Calisthenics/L link — CORTEX Plate Loaded Weight Vest.md",
+    "Areas/My Links/My Links.md",
+    "Areas/Career/Certifications/link — Web Application Technologies and Django.md",
+    "Areas/Career/Certifications/link — Building Web Applications in Django.md",
+    "Areas/Career/Certifications/link — Advanced Django- Building a Blog.md",
+    "Areas/Calisthenics/link — CORTEX Plate Loaded Weight Vest.md",
+    "Projects/Project List/BASB/Resources.md",
+    "Projects/Project List/BASB/link — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy.md",
+    "Areas/Journal/Journal.md",
     "Areas/Personal Home/Codes.md",
     "notes/dailies",
     "notes",
-    "Areas/Journal/Daily/Wednesday 10th April 2024.md",
     "Areas/Journal/Daily/Saturday 16th March 2024.md",
     "Areas/Journal/Daily/Friday 1st March 2024.md",
     "Areas/Journal/Daily/Wednesday 21st February 2024.md",
     "Areas/Journal/Daily/Tuesday 20th February 2024.md",
-    "Areas/Journal/Daily/Monday 19th February 2024.md",
-    "Areas/Journal/Daily/Sunday 18th February 2024.md",
-    "Areas/Journal/Daily/Saturday 18th February 2024.md",
-    "Areas/Journal/Daily/Saturday 17th February 2024.md",
-    "Areas/Journal/Daily/Tuesday 13th February 2024.md",
-    "Areas/Journal/Daily/Monday 12th February 2024.md",
-    "Areas/Journal/Daily/Saturday 9th February 2024.md",
-    "Areas/Journal/Daily/Friday 8th February 2024.md",
-    "Areas/Journal/Daily/Thursday 7th February 2024.md",
-    "Areas/Journal/Daily/Tuesday 5th February 2024.md",
-    "Resources/Templates/Yearly Entry.md",
-    "Areas/Journal/Yearly/2024.md",
-    "Areas/Tasks.md",
-    "Areas/Career/Freelancing & Contracting.md",
-    "Areas/Journal/Weekly/new week.md",
-    "Resources/Resources.md",
-    "Front Page.md",
     "Areas/Journal/Yearly",
     "Areas/Journal/Quarterly",
     "Areas/Journal/Monthly",
