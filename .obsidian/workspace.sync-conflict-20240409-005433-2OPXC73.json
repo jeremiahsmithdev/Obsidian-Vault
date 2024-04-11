@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "b259e79e00815041",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa104f5e3bfb61c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5714c6e507922825",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61d14cf053b7f48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3dff5961e6bb62c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a81ceded1d60f830",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "12726add084c31b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1faf7f79e6b3098",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e01e257e5f119fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3ee2cbfa5f4e44f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55fcfeeaf7062042",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "299c4088f4cde6a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "341b87cb1335fd40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ae4cfcf1a7fedcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "5714c6e507922825",
+  "lastOpenFiles": [
+    "Projects/Project List/RunBuddies.md",
+    "2024.md",
+    "Quick Notes/Quick Notes.md",
+    "notes/1709036306-new-note.md",
+    "Quick Notes/Belgrade.md",
+    "My Links/My Links.sync-conflict-20240329-163557-2OPXC73.md",
+    "Quick Notes/Moving in with Zac.md",
+    "Quick Notes/Karen Woodford.md",
+    "Quick Notes/Runbuddies.md",
+    "Quick Notes/New note.md",
+    "Projects/Project List/Untitled.md",
+    "notes/1710567658-newnotefromneovim.md",
+    "Front Page.md",
+    "Projects/Project List/La Perla Blanca/La resurrección/Bleeding/Ford Transit 2.4 TDCI Diesel Fuel Filter Priming Tool  eBay.md",
+    "Quick Notes/2024-03-23.md",
+    "My Links/My Links.md",
+    "Front Page.sync-conflict-20240323-145106-2OPXC73.md",
+    "Quick Notes/Lanterns per minute.md",
+    "Untitled",
+    "Quick Notes/Untitled 1.md",
+    "Quick Notes/2024-03-21.md",
+    "Resources/Templates/Second Brain/Second Brain.md",
+    "Areas/Journal/Journal.md",
+    "Resources/Templates/life planner/meal plan/meal plan.md",
+    "Resources/Templates/life planner/fitness plan/fitness plan.md",
+    "Areas/Journal/Daily Entry 11.md",
+    "Resources/Templates/life planner/journal/journal.md",
+    "Resources/Templates/life planner/journal",
+    "Resources/Templates/life planner",
+    "Resources/Templates",
+    "Resources",
+    "Areas/Journal",
+    "Areas",
+    "Notion",
+    "Quick Notes",
+    "Resources/Templates/Second Brain/Resources/Meditation Journal/Tracker/Session w- Anne-Marie",
+    "welcome_.jpeg",
+    "vsk8er.jpeg",
+    "tatianasoash___QUOTES_-_tatianasoash_com.jpeg",
+    "r_o_s_i_e.jpeg",
+    "in_the_city__).jpeg",
+    "images.jpeg",
+    "icon_app_for_home_screen.jpeg",
+    "ff0cdeb0-84b4-4766-a4c8-5d675add4554.jpeg",
+    "exam__chilles.jpeg",
+    "exam__chilles 2.jpeg"
+  ]
+}

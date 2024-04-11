@@ -1,0 +1,6 @@
+{
+  "format": "dddd Do MMMM YYYY",
+  "folder": "Areas/Journal",
+  "autorun": true,
+  "template": "Resources/Templates/Daily Entry Basic"
+}

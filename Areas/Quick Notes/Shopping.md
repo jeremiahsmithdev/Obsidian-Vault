@@ -1,0 +1,15 @@
+- [x] Bananas
+- [x] Milk
+- [x] Bread
+- [x] Avos
+- [x] Bickies
+- [x] Dips
+- [x] Lettuce
+- [x] Chook
+- [x] Smoothies
+- [x] Mango
+- [x] Yoghurt
+- [x] Icecream
+- [x] Ritz
+- [ ] Cheese
+- [ ] Salami

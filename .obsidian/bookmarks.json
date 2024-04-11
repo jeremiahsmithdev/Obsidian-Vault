@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1710585587552,
+      "path": "Front Page.md",
+      "title": "Front page bookmark "
+    },
+    {
+      "type": "group",
+      "ctime": 1712752253532,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1712752274058,
+          "path": "Areas/Journal/Monthly/April - 2024.md"
+        }
+      ],
+      "title": "Focus"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Where does a new note end up?

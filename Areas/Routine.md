@@ -1,0 +1,2 @@
+- 7:30 - Wake up
+    - 7:30 - 8:30 : Pranayama

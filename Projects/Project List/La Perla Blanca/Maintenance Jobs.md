@@ -1,0 +1,6 @@
+- [ ] Rust under wheel arches
+- [ ] Rust behind air filter housing
+- [ ] Roof deck solar sliders
+- [ ] Paint job
+- [ ] Step
+- [ ] Migrate existing lists

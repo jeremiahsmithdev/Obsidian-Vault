@@ -1,0 +1,1 @@
+[![](https://www.lifespanfitness.com.au/cdn/shop/products/CSAC-WVESTPL_media-06_1024x1024.jpg?v=1662954996)](https://www.lifespanfitness.com.au/cdn/shop/products/CSAC-WVESTPL_media-06_1024x1024.jpg?v=1662954996)

@@ -1,0 +1,4 @@
+- hold accelerator when starting, turn over for a while
+- check injectors connected, may have left after testing
+- add more fuel, possibly drain first
+- use some start ya bastard

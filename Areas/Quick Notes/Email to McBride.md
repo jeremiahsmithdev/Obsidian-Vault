@@ -1,0 +1,3 @@
+Gabby told me that Tas asked specifically to be department head. That he thought he was being groomed for it last year.
+
+If Crawford was key officer that year I was not aware of this. I assume it was because he was the recommended age for the role since as I said I was actually given more responsibility than him that year considering I had experience. Actually now that I think about it I think you have this mixed up. There was another Jack, Jack Williams who was key officer from what I recall, since he was the appropriate age and turned up early to help Danny set up. Is it possible you are getting these two mixed up?

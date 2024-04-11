@@ -1,0 +1,1 @@
+_“Every moment waited is a moment wasted, and each wasted moment degrades your clarity of purpose.” - Way of the Superior Man_

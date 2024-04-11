@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "b259e79e00815041",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c1b603cb390e2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b37b74dcf53aa44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Personal Home/Reading List/New book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d140644841743ee2",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e96da03e63870489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Journal/Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0eb810090fc9d7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Personal Home/Codes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61d14cf053b7f48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3dff5961e6bb62c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a81ceded1d60f830",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "12726add084c31b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1faf7f79e6b3098",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "aca75f5b8627b854",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e01e257e5f119fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3ee2cbfa5f4e44f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55fcfeeaf7062042",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Areas/Personal Home/Codes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "299c4088f4cde6a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Areas/Personal Home/Codes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "341b87cb1335fd40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ae4cfcf1a7fedcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Areas/Personal Home/Codes.md"
+              }
+            }
+          },
+          {
+            "id": "e4a660f2cf308bff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "42338dbbfc95cc4d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "0eb810090fc9d7f9",
+  "lastOpenFiles": [
+    "Areas/Journal/Daily/Thursday 11th April 2024.md",
+    "notes/dailies",
+    "notes",
+    "Areas/Journal/Daily/Wednesday 10th April 2024.md",
+    "Areas/Journal/Daily/Saturday 16th March 2024.md",
+    "Areas/Journal/Daily/Friday 1st March 2024.md",
+    "Areas/Journal/Daily/Wednesday 21st February 2024.md",
+    "Areas/Journal/Daily/Tuesday 20th February 2024.md",
+    "Areas/Journal/Daily/Monday 19th February 2024.md",
+    "Areas/Journal/Daily/Sunday 18th February 2024.md",
+    "Areas/Journal/Daily/Saturday 18th February 2024.md",
+    "Areas/Journal/Daily/Saturday 17th February 2024.md",
+    "Areas/Journal/Daily/Tuesday 13th February 2024.md",
+    "Areas/Journal/Daily/Monday 12th February 2024.md",
+    "Areas/Journal/Daily/Saturday 9th February 2024.md",
+    "Areas/Journal/Daily/Friday 8th February 2024.md",
+    "Areas/Journal/Daily/Thursday 7th February 2024.md",
+    "Areas/Journal/Daily/Tuesday 5th February 2024.md",
+    "Areas/Journal/Journal.md",
+    "Resources/Templates/Yearly Entry.md",
+    "Areas/Journal/Yearly/2024.md",
+    "Areas/Tasks.md",
+    "Areas/Career/Freelancing & Contracting.md",
+    "Areas/Journal/Weekly/new week.md",
+    "Resources/Resources.md",
+    "Front Page.md",
+    "Areas/Quick Notes/Brendan Kindle.md",
+    "Fix van.md",
+    "Areas/Journal/Yearly",
+    "Areas/Journal/Quarterly",
+    "Areas/Journal/Monthly",
+    "Areas/Journal/Daily",
+    "Areas/Journal/Weekly",
+    "Resources/Templates/Templates",
+    "Resources/Templates/Second Brain",
+    "Resources/Templates/life planner",
+    "Untitled.canvas",
+    "welcome_.jpeg",
+    "vsk8er.jpeg",
+    "tatianasoash___QUOTES_-_tatianasoash_com.jpeg",
+    "r_o_s_i_e.jpeg",
+    "in_the_city__).jpeg",
+    "images.jpeg",
+    "icon_app_for_home_screen.jpeg",
+    "ff0cdeb0-84b4-4766-a4c8-5d675add4554.jpeg",
+    "exam__chilles.jpeg",
+    "exam__chilles 2.jpeg"
+  ]
+}
