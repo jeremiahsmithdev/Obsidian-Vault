@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Personal Home/Codes.md",
+                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Personal Home/Codes.md",
+                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Personal Home/Codes.md",
+                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Personal Home/Codes.md"
+                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md"
               }
             }
           },
@@ -210,7 +210,10 @@
   },
   "active": "0eb810090fc9d7f9",
   "lastOpenFiles": [
+    "Areas/Journal/Journal.md",
     "Areas/Journal/Daily/Thursday 11th April 2024.md",
+    "Areas/Journal/Daily/Thursday 11th April 2024.sync-conflict-20240411-174953-MLRO5E5.md",
+    "Areas/Personal Home/Codes.md",
     "notes/dailies",
     "notes",
     "Areas/Journal/Daily/Wednesday 10th April 2024.md",
@@ -228,7 +231,6 @@
     "Areas/Journal/Daily/Friday 8th February 2024.md",
     "Areas/Journal/Daily/Thursday 7th February 2024.md",
     "Areas/Journal/Daily/Tuesday 5th February 2024.md",
-    "Areas/Journal/Journal.md",
     "Resources/Templates/Yearly Entry.md",
     "Areas/Journal/Yearly/2024.md",
     "Areas/Tasks.md",
@@ -236,8 +238,6 @@
     "Areas/Journal/Weekly/new week.md",
     "Resources/Resources.md",
     "Front Page.md",
-    "Areas/Quick Notes/Brendan Kindle.md",
-    "Fix van.md",
     "Areas/Journal/Yearly",
     "Areas/Journal/Quarterly",
     "Areas/Journal/Monthly",
