@@ -9,6 +9,14 @@
       "path": "Areas/Journal/Journal.md"
     },
     {
+      "basename": "Wednesday 10th April 2024",
+      "path": "Areas/Journal/Daily/Wednesday 10th April 2024.md"
+    },
+    {
+      "basename": "Friday 12th April 2024",
+      "path": "Areas/Journal/Friday 12th April 2024.md"
+    },
+    {
       "basename": "Strava Workouts",
       "path": "Areas/Running/Strava Workouts.md"
     },
@@ -171,10 +179,6 @@
     {
       "basename": "Resources",
       "path": "Resources/Resources.md"
-    },
-    {
-      "basename": "Friday 12th April 2024",
-      "path": "Areas/Journal/Friday 12th April 2024.md"
     },
     {
       "basename": "5 AI job search tools you shouldn't miss",

@@ -51,6 +51,7 @@ FROM #Yearly AND -"Resources/Templates"
 	- [[Tuesday 5th February 2024]]
 	- [[Tuesday 13th February 2024]]
 	- [[Tuesday 20th February 2024]]
+	- [[Wednesday 10th April 2024]]
 	- [[Wednesday 21st February 2024]]
 - [[Friday 12th April 2024]]
 - [[Meditation Reflections]]
