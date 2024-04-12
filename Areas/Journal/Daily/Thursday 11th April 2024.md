@@ -12,6 +12,7 @@ Date: 2024-04-11
 - [ ] Mow lawn
 - [ ] Finish Obsidian Guide
 - [ ] set up hammock
+edit
 
 ## tomorrow
 [[Friday 12th April 2024]]
