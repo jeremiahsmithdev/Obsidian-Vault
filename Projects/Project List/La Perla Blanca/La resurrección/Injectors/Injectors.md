@@ -72,15 +72,11 @@ Part no. 1-378-433
 
 Info
 
-[[commonra]]
-
   
 
 Injector washers
 
 13.7mm x 7.16mm x 1.6mm
-
-[[17794]]
 
 > [!info] Ford Transit 2.0 TDCI Duratorq Delphi Common Rail Diesel Injector Washers x 4  
 > Application: Ford Duratorq 2.  
@@ -169,5 +165,3 @@ brake cleaner
 > [!info] DIY Fuel Injector Cleaning  
 > DIY Fuel Injector Cleaning is hardly ever successful.  
 > [https://www.injectorrx.com/fuel-injector-cleaning-and-flow-testing-service/fuel-injector-cleaning/diy-fuel-injector-cleaning](https://www.injectorrx.com/fuel-injector-cleaning-and-flow-testing-service/fuel-injector-cleaning/diy-fuel-injector-cleaning)  
-
-![[1000002827.jpg]]

@@ -67,3 +67,12 @@ Steps
   
 
 [[Llink — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy|Llink — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy]]
+
+## Waypoint
+%% Begin Waypoint %%
+- [[12 Favourite Problems]]
+- [[link — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy]]
+- [[Llink — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy]]
+- [[Resources]]
+
+%% End Waypoint %%

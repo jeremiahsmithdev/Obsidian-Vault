@@ -14,3 +14,10 @@ Status: Not started
 [[Granny Flat Laws NSW - The Definitive Guide]]
 
 [[Granny Flat Without Council Approval - What to Do and Avoid - DIY Granny Flat]]
+
+%% Begin Waypoint %%
+- [[Granny Flat Laws NSW - The Definitive Guide]]
+- [[Granny Flat Without Council Approval - What to Do and Avoid - DIY Granny Flat]]
+- [[Nature's Head Composting Toilet  Nature's Head Australia]]
+
+%% End Waypoint %%

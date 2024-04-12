@@ -7,17 +7,6 @@
 
 A list of uncategorised notes.
 
-# Today’s to-do items
-
----
-
-- [ ] meditate
-
-# Miscellaneous Notes Pages
-
----
-
----
 
 [[Brendan Kindle|Brendan Kindle]]
 
@@ -54,3 +43,32 @@ A list of uncategorised notes.
 [[Garden behind house]]
 
 Fly.io
+
+%% Begin Waypoint %%
+- [[“The cheapest woman tends to be the one you pay for”]]
+- [[5 AI job search tools you shouldn't miss]]
+- [[5 AI job search tools you shouldn't misss]]
+- [[Belgrade]]
+- [[Blues approx pay]]
+- [[Brendan Kindle]]
+- **[[Convergence and Divergence]]**
+- [[Don't wait]]
+- [[Email to McBride]]
+- [[Garden behind house]]
+- [[GC Air BNB]]
+- [[God’s mind]]
+- [[Karen Woodford]]
+- [[Keep Notes (import)]]
+- [[Lanterns per minute]]
+- [[Marathon session paces]]
+- [[Moving in with Zac]]
+- [[New note test]]
+- [[New note]]
+- [[Runbuddies]]
+- [[Running rash]]
+- [[Shopping]]
+- [[This board goes the fastest and furthest - The VOW GT - YouTube   how to build guide linked]]
+- [[Time]]
+- [[Vanessa Website]]
+
+%% End Waypoint %%

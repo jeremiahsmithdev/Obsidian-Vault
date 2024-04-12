@@ -1,6 +1,162 @@
 {
   "recentFiles": [
     {
+      "basename": "Running",
+      "path": "Areas/Running/Running.md"
+    },
+    {
+      "basename": "Pro Runner Workouts",
+      "path": "Areas/Running/Pro Runner Workouts.md"
+    },
+    {
+      "basename": "Gold Coast Marathon",
+      "path": "Projects/Project List/Gold Coast Marathon.md"
+    },
+    {
+      "basename": "OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers",
+      "path": "Areas/Career/Jobs/ColourWorks Australia/OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers/OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers.md"
+    },
+    {
+      "basename": "Strava Workouts",
+      "path": "Areas/Running/Strava Workouts.md"
+    },
+    {
+      "basename": "Areas",
+      "path": "Areas/Areas.md"
+    },
+    {
+      "basename": "Recipes",
+      "path": "Areas/Personal Home/Recipes/Recipes.md"
+    },
+    {
+      "basename": "Convergence and Divergence",
+      "path": "Areas/Quick Notes/Convergence and Divergence/Convergence and Divergence.md"
+    },
+    {
+      "basename": "Injectors",
+      "path": "Projects/Project List/La Perla Blanca/La resurrección/Injectors/Injectors.md"
+    },
+    {
+      "basename": "Gnosis",
+      "path": "Areas/Gnosis/Gnosis.md"
+    },
+    {
+      "basename": "Samael Lakshmi",
+      "path": "Areas/Gnosis/Samael Lakshmi.md"
+    },
+    {
+      "basename": "New book",
+      "path": "Areas/Personal Home/Reading List/New book.md"
+    },
+    {
+      "basename": "Journal",
+      "path": "Areas/Journal/Journal.md"
+    },
+    {
+      "basename": "Nature's Head Composting Toilet  Nature's Head Australia",
+      "path": "Projects/Project List/Communal Building/Nature's Head Composting Toilet  Nature's Head Australia.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Projects/Projects.md"
+    },
+    {
+      "basename": "RunBuddies",
+      "path": "Projects/Project List/RunBuddies.md"
+    },
+    {
+      "basename": "Career",
+      "path": "Areas/Career/Career.md"
+    },
+    {
+      "basename": "Certifications",
+      "path": "Areas/Career/Certifications/Certifications.md"
+    },
+    {
+      "basename": "Neovim",
+      "path": "Areas/Programming/Neovim/Neovim.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Areas/Tasks.md"
+    },
+    {
+      "basename": "ColourWorks Australia",
+      "path": "Areas/Career/Jobs/ColourWorks Australia/ColourWorks Australia.md"
+    },
+    {
+      "basename": "OAuth authentication  Auth.js",
+      "path": "Areas/Career/Jobs/ColourWorks Australia/OAuth authentication  Auth.js.md"
+    },
+    {
+      "basename": "BASB",
+      "path": "Projects/Project List/BASB/BASB.md"
+    },
+    {
+      "basename": "link — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy",
+      "path": "Projects/Project List/BASB/link — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy.md"
+    },
+    {
+      "basename": "Simplifying OAuth Implementation in JavaScript- A Step-by-Step Guide  by Code Water  Medium",
+      "path": "Areas/Personal Home/Reading List/Simplifying OAuth Implementation in JavaScript- A Step-by-Step Guide  by Code Water  Medium.md"
+    },
+    {
+      "basename": "Reading List",
+      "path": "Areas/Personal Home/Reading List/Reading List.md"
+    },
+    {
+      "basename": "New TV series",
+      "path": "Areas/Personal Home/Reading List/New TV series.md"
+    },
+    {
+      "basename": "link — Advanced Django- Building a Blog",
+      "path": "Areas/Career/Certifications/link — Advanced Django- Building a Blog.md"
+    },
+    {
+      "basename": "link — Web Application Technologies and Django",
+      "path": "Areas/Career/Certifications/link — Web Application Technologies and Django.md"
+    },
+    {
+      "basename": "Northern Spain & Barcelona",
+      "path": "Areas/Personal Home/Travel Plans/Northern Spain & Barcelona.md"
+    },
+    {
+      "basename": "My Links",
+      "path": "Areas/My Links/My Links.md"
+    },
+    {
+      "basename": "MISDIAGNOSED ENGINE FAILURE 2.2 2.4 TDCI Land Rover Defender Puma & Ford Transit EASY FIX!! - YouTube",
+      "path": "Areas/My Links/MISDIAGNOSED ENGINE FAILURE 2.2 2.4 TDCI Land Rover Defender Puma & Ford Transit EASY FIX!! - YouTube.md"
+    },
+    {
+      "basename": "Communal Building",
+      "path": "Projects/Project List/Communal Building/Communal Building.md"
+    },
+    {
+      "basename": "Quick Notes",
+      "path": "Areas/Quick Notes/Quick Notes.md"
+    },
+    {
+      "basename": "Runbuddies",
+      "path": "Areas/Quick Notes/Runbuddies.md"
+    },
+    {
+      "basename": "Front Page",
+      "path": "Front Page.md"
+    },
+    {
+      "basename": "Archives",
+      "path": "Archives.md"
+    },
+    {
+      "basename": "Purchase List",
+      "path": "Areas/Personal Home/Purchase List.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Resources/Resources.md"
+    },
+    {
       "basename": "Friday 12th April 2024",
       "path": "Areas/Journal/Friday 12th April 2024.md"
     },
@@ -17,20 +173,8 @@
       "path": "Areas/Quick Notes/5 AI job search tools you shouldn't miss.md"
     },
     {
-      "basename": "My Links",
-      "path": "Areas/My Links/My Links.md"
-    },
-    {
-      "basename": "link — Web Application Technologies and Django",
-      "path": "Areas/Career/Certifications/link — Web Application Technologies and Django.md"
-    },
-    {
       "basename": "link — Building Web Applications in Django",
       "path": "Areas/Career/Certifications/link — Building Web Applications in Django.md"
-    },
-    {
-      "basename": "link — Advanced Django- Building a Blog",
-      "path": "Areas/Career/Certifications/link — Advanced Django- Building a Blog.md"
     },
     {
       "basename": "link — CORTEX Plate Loaded Weight Vest",
@@ -39,14 +183,6 @@
     {
       "basename": "Resources",
       "path": "Projects/Project List/BASB/Resources.md"
-    },
-    {
-      "basename": "link — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy",
-      "path": "Projects/Project List/BASB/link — How To Integrate (And Automate) The Remarkable Tablet With Anything - YouTube - Productivity Academy.md"
-    },
-    {
-      "basename": "Journal",
-      "path": "Areas/Journal/Journal.md"
     },
     {
       "basename": "Codes",
@@ -63,142 +199,6 @@
     {
       "basename": "Wednesday 21st February 2024",
       "path": "Areas/Journal/Daily/Wednesday 21st February 2024.md"
-    },
-    {
-      "basename": "Tuesday 20th February 2024",
-      "path": "Areas/Journal/Daily/Tuesday 20th February 2024.md"
-    },
-    {
-      "basename": "Monday 19th February 2024",
-      "path": "Areas/Journal/Daily/Monday 19th February 2024.md"
-    },
-    {
-      "basename": "Sunday 18th February 2024",
-      "path": "Areas/Journal/Daily/Sunday 18th February 2024.md"
-    },
-    {
-      "basename": "Saturday 18th February 2024",
-      "path": "Areas/Journal/Daily/Saturday 18th February 2024.md"
-    },
-    {
-      "basename": "Saturday 17th February 2024",
-      "path": "Areas/Journal/Daily/Saturday 17th February 2024.md"
-    },
-    {
-      "basename": "Tuesday 13th February 2024",
-      "path": "Areas/Journal/Daily/Tuesday 13th February 2024.md"
-    },
-    {
-      "basename": "Monday 12th February 2024",
-      "path": "Areas/Journal/Daily/Monday 12th February 2024.md"
-    },
-    {
-      "basename": "Saturday 9th February 2024",
-      "path": "Areas/Journal/Daily/Saturday 9th February 2024.md"
-    },
-    {
-      "basename": "Friday 8th February 2024",
-      "path": "Areas/Journal/Daily/Friday 8th February 2024.md"
-    },
-    {
-      "basename": "Thursday 7th February 2024",
-      "path": "Areas/Journal/Daily/Thursday 7th February 2024.md"
-    },
-    {
-      "basename": "Tuesday 5th February 2024",
-      "path": "Areas/Journal/Daily/Tuesday 5th February 2024.md"
-    },
-    {
-      "basename": "Yearly Entry",
-      "path": "Resources/Templates/Yearly Entry.md"
-    },
-    {
-      "basename": "2024",
-      "path": "Areas/Journal/Yearly/2024.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Areas/Tasks.md"
-    },
-    {
-      "basename": "Freelancing & Contracting",
-      "path": "Areas/Career/Freelancing & Contracting.md"
-    },
-    {
-      "basename": "new week",
-      "path": "Areas/Journal/Weekly/new week.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Resources/Resources.md"
-    },
-    {
-      "basename": "Front Page",
-      "path": "Front Page.md"
-    },
-    {
-      "basename": "Brendan Kindle",
-      "path": "Areas/Quick Notes/Brendan Kindle.md"
-    },
-    {
-      "basename": "Fix van",
-      "path": "Fix van.md"
-    },
-    {
-      "basename": "MISDIAGNOSED ENGINE FAILURE 2.2 2.4 TDCI Land Rover Defender Puma & Ford Transit EASY FIX!! - YouTube",
-      "path": "Areas/My Links/MISDIAGNOSED ENGINE FAILURE 2.2 2.4 TDCI Land Rover Defender Puma & Ford Transit EASY FIX!! - YouTube.md"
-    },
-    {
-      "basename": "2024-Q2",
-      "path": "Areas/Journal/Quarterly/2024-Q2.md"
-    },
-    {
-      "basename": "Week 6 - 2024",
-      "path": "Areas/Journal/Weekly/Week 6 - 2024.md"
-    },
-    {
-      "basename": "April - 2024",
-      "path": "Areas/Journal/Monthly/April - 2024.md"
-    },
-    {
-      "basename": "Week 15 - 2024",
-      "path": "Areas/Journal/Week 15 - 2024.md"
-    },
-    {
-      "basename": "March - 2024",
-      "path": "Areas/Journal/Monthly/March - 2024.md"
-    },
-    {
-      "basename": "Week 8 - 2024",
-      "path": "Areas/Journal/Weekly/Week 8 - 2024.md"
-    },
-    {
-      "basename": "Weekly Entry",
-      "path": "Resources/Templates/Weekly Entry.md"
-    },
-    {
-      "basename": "Monthly Entry",
-      "path": "Resources/Templates/Monthly Entry.md"
-    },
-    {
-      "basename": "Templates",
-      "path": "Resources/Templates/Templates.md"
-    },
-    {
-      "basename": "Daily Entry",
-      "path": "Resources/Templates/Daily Entry.md"
-    },
-    {
-      "basename": "New book",
-      "path": "Areas/Personal Home/Reading List/New book.md"
-    },
-    {
-      "basename": "Daily Entry Basic",
-      "path": "Resources/Templates/Daily Entry Basic.md"
-    },
-    {
-      "basename": "Wednesday 10th April 2024.sync-conflict-20240411-020658-MLRO5E5",
-      "path": "Areas/Journal/Daily/Wednesday 10th April 2024.sync-conflict-20240411-020658-MLRO5E5.md"
     }
   ],
   "omittedPaths": [],

@@ -1,7 +1,7 @@
 {
   "vimMode": true,
   "promptDelete": false,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "Quick Notes",
   "mobilePullAction": "switcher:open",
   "alwaysUpdateLinks": true

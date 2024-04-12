@@ -47,3 +47,12 @@ OAuth managed by Therefore Tasks
 > [!info] Beautiful Business & Accounting Software  
 > Xero online accounting software for your business connects you to your bank, accountant, bookkeeper, and other business apps.  
 > [https://www.xero.com/](https://www.xero.com/)
+
+%% Begin Waypoint %%
+- **[[A story from Code Water on Medium]]**
+- **[[OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers]]**
+- [[OAuth authentication  Auth.js]]
+- [[OAuth Libraries for JavaScript]]
+- [[Sample Script]]
+
+%% End Waypoint %%

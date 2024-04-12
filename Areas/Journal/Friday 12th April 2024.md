@@ -7,6 +7,7 @@ Date: 12-04-2024
 
 ## Today
 * Driving Zac to Southport
+
 - [ ] Run - Marathon pace session
 - [ ] Mow lawn
 - [ ] Finish Obsidian Guide

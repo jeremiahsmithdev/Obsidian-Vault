@@ -17,3 +17,17 @@
 “Almost every profession requires you to be articulate and well-spoken.“
 
 Read this story from Sufyan Maan, M.Eng on Medium: https://medium.com/illumination/what-happens-when-you-start-reading-every-day-fddfbf936092
+
+%% Begin Waypoint %%
+- [[Accelerated Spanish]]
+- [[Beyond Dreaming]]
+- [[Building a Second Brain]]
+- [[Dopamine Detox]]
+- [[GoldJacketLuke Book Recommendations]]
+- [[New article]]
+- [[New book]]
+- [[New TV series]]
+- [[Simplifying OAuth Implementation in JavaScript- A Step-by-Step Guide  by Code Water  Medium]]
+- [[Your Best Year Ever]]
+
+%% End Waypoint %%

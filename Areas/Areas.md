@@ -1,31 +1,68 @@
-[[Areas/Personal Home/Personal Home|Personal Home]]
+%% Begin Waypoint %%
+- **[[Calisthenics]]**
+	- [[CORTEX Plate Loaded Weight Vest]]
+	- [[L link — CORTEX Plate Loaded Weight Vest]]
+	- [[link — CORTEX Plate Loaded Weight Vest]]
+- **[[Career]]**
+	- **[[Certifications]]**
+	- **[[Contracting]]**
+		- [[ABN]]
+		- [[Articles]]
+		- [[Building my network]]
+		- [[How to become a freelance software contractor]]
+		- [[Parpera]]
+	- [[Freelancing & Contracting]]
+	- [[Job Search]]
+	- **[[Jobs]]**
+		- **[[ColourWorks Australia]]**
+	- [[Portfolio]]
+	- [[Road Map]]
+- [[Community]]
+- **[[Gnosis]]**
+	- [[Bibliography of Samael Aun Weor]]
+	- [[can i use syncthing with obsidian - Google Search]]
+	- [[Internacional - Gnosis Samael Lakhsmi International]]
+	- [[Samael Lakshmi]]
+	- [[Websites]]
+- [[Goals]]
+- [[Guitar]]
+- **[[Health]]**
+	- [[Vital Source 15L Water Bottles - The Water Place]]
+- **[[Home]]**
+	- [[Home Improvement]]
+- **[[Journal]]**
+- **[[My Links]]**
+- **[[Personal Home]]**
+	- [[Codes]]
+	- [[Debts]]
+	- [[Purchase List]]
+	- **[[Reading List]]**
+	- **[[Recipes]]**
+		- [[Curry]]
+		- [[Dahl]]
+		- [[Spaghetti Bolognese]]
+	- **[[Task List]]**
+		- [[Take Fig on a walk]]
+	- **[[Travel Plans]]**
+		- [[Northern Spain & Barcelona]]
+		- [[South America]]
+	- [[Web Home]]
+	- [[Yearly Goals]]
+- **[[Programming]]**
+	- [[Algorithms]]
+	- [[Leetcode]]
+	- [[My 2024 PDE- NeoVim - DEV Community]]
+	- **[[Neovim]]**
+		- [[Top Neovim Plugins in 2024]]
+	- [[The Holy Grail of Neovim Note Taking]]
+- **[[Quick Notes]]**
+- [[Routine]]
+- **[[Running]]**
+	- [[Pro Runner Workouts]]
+	- [[Strava Workouts]]
+- [[Spanish]]
+- [[Tasks]]
+- [[The Best Chai in Newcastle  HUNTERhunter]]
+- [[Vanlife]]
 
-[[Areas/Career/Career|Career]]
-
-[[Areas/Vanlife|Vanlife]]
-
-[[Areas/Journal/Journal|Journal]]
-
-[[Areas/Gnosis/Gnosis|Gnosis]]
-
-[[Areas/Calisthenics/Calisthenics|Calisthenics]]
-
-[[Areas/Running|Running]]
-
-[[Areas/Community|Community]]
-
-[[Areas/Programming/Programming|Programming]]
-
-[[Areas/Routine|Routine]]
-
-[[Areas/Goals|Goals]]
-
-[[Areas/Guitar|Guitar]]
-
-[[Areas/Spanish|Spanish]]
-
-[[Areas/Home/Home|Home]]
-
-[[Health]]
-
-[[The Best Chai in Newcastle HUNTERhunter]]
+%% End Waypoint %%
