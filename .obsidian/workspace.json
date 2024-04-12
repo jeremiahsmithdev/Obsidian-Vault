@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9204fbfad7bfc3c6",
+        "id": "3c1b603cb390e2cd",
         "type": "tabs",
         "children": [
           {
-            "id": "64498cfe552608c4",
+            "id": "0eb810090fc9d7f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
+                "file": "Areas/Running/Running.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
+                "file": "Areas/Running/Running.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
+                "file": "Areas/Running/Running.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md"
+                "file": "Areas/Running/Running.md"
               }
             }
           },
@@ -172,30 +172,24 @@
       "obsidian-importer:Open Importer": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "64498cfe552608c4",
+  "active": "0eb810090fc9d7f9",
   "lastOpenFiles": [
-    "Areas/Journal/Journal.md",
-    "Areas/Journal/Daily/Wednesday 10th April 2024.md",
-    "Areas/Journal/Daily/Thursday 11th April 2024.md",
-    "Areas/Journal/Friday 12th April 2024.md",
-    "conflict-files-obsidian-git.md",
-    "Areas/Running/Strava Workouts.md",
-    "Resources/Images/Screenshot_20240412-021123 1.png",
-    "Resources/Images/Screenshot_20240412-020844.png",
-    "Resources/Images/Screenshot_20240412-021123.png",
-    "Resources/Images",
-    "Archives.md",
-    "Areas/Areas.md",
+    "Areas/Running/Pro Runner Workouts.md",
     "Areas/Running/Running.md",
     "Projects/Project List/Gold Coast Marathon.md",
-    "Areas/Running/Pro Runner Workouts.md",
     "Areas/Running",
     "Areas/new file here.md",
     "Areas/Career/Jobs/ColourWorks Australia/OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers/OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers.md",
     "Areas/Career/Jobs/ColourWorks Australia/OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers/new file here.md",
+    "Screenshot_20240412-021123 1.png",
+    "Areas/Running/Strava Workouts.md",
+    "Areas/Areas.md",
+    "Screenshot_20240412-021123.png",
+    "Screenshot_20240412-020844.png",
     "Areas/Personal Home/Recipes/Recipes.md",
     "Areas/Quick Notes/Convergence and Divergence/Convergence and Divergence.md",
     "Projects/Project List/La Perla Blanca/La resurrección/Injectors/Injectors.md",
@@ -208,6 +202,12 @@
     "Untitled 2.png.md",
     "teal.png.md",
     "Screen_Shot_2024-02-25_at_3.30.04_pm.png.md",
+    "1000002827.jpg.md",
+    "Areas/Personal Home/Reading List/New book.md",
+    "Areas/Journal/Journal.md",
+    "17794.md",
+    "commonra.md",
+    "1000002643 2.jpg.md",
     "My Links",
     "notes/dailies",
     "notes",
@@ -216,6 +216,7 @@
     "Areas/Journal/Monthly",
     "Areas/Journal/Daily",
     "Areas/Journal/Weekly",
+    "Resources/Templates/Templates",
     "Untitled.canvas",
     "welcome_.jpeg",
     "vsk8er.jpeg",

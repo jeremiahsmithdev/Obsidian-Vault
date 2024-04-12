@@ -1,12 +1,3 @@
----
-Date: 2024-04-10
-tags:
-  - Daily
-Created:
----
-[[Saturday 16th March 2024]]
-[[Thursday 11th April 2024]]
-
 I finished One Tree Hill, at least up until season 6 where Lucas and Peyton leave. Feeling fairly sentimental about it. Can't really watch it without their characters.
 There were some takeaways. Something about remembering to love.
 
@@ -26,4 +17,4 @@ Did a threshold interval run.
 - [ ] Mow lawn
 - [ ] Finish Obsidian Guide
 - [ ] Arrange rent for Zac
-- [ ] set up hammock
+- [ ] Reply to Nathaniel

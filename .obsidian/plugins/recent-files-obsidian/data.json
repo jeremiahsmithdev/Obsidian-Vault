@@ -5,56 +5,28 @@
       "path": "Areas/Journal/Daily/Thursday 11th April 2024.md"
     },
     {
-      "basename": "Journal",
-      "path": "Areas/Journal/Journal.md"
-    },
-    {
-      "basename": "Wednesday 10th April 2024",
-      "path": "Areas/Journal/Daily/Wednesday 10th April 2024.md"
-    },
-    {
-      "basename": "Friday 12th April 2024",
-      "path": "Areas/Journal/Friday 12th April 2024.md"
-    },
-    {
-      "basename": "Strava Workouts",
-      "path": "Areas/Running/Strava Workouts.md"
-    },
-    {
-      "basename": "Screenshot_20240412-021123 1",
-      "path": "Resources/Images/Screenshot_20240412-021123 1.png"
-    },
-    {
-      "basename": "Screenshot_20240412-020844",
-      "path": "Resources/Images/Screenshot_20240412-020844.png"
-    },
-    {
-      "basename": "Screenshot_20240412-021123",
-      "path": "Resources/Images/Screenshot_20240412-021123.png"
-    },
-    {
-      "basename": "Archives",
-      "path": "Archives.md"
-    },
-    {
-      "basename": "Areas",
-      "path": "Areas/Areas.md"
-    },
-    {
       "basename": "Running",
       "path": "Areas/Running/Running.md"
-    },
-    {
-      "basename": "Gold Coast Marathon",
-      "path": "Projects/Project List/Gold Coast Marathon.md"
     },
     {
       "basename": "Pro Runner Workouts",
       "path": "Areas/Running/Pro Runner Workouts.md"
     },
     {
+      "basename": "Gold Coast Marathon",
+      "path": "Projects/Project List/Gold Coast Marathon.md"
+    },
+    {
       "basename": "OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers",
       "path": "Areas/Career/Jobs/ColourWorks Australia/OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers/OAuth 2.0 for Client-side Web Applications    Authorization    Google for Developers.md"
+    },
+    {
+      "basename": "Strava Workouts",
+      "path": "Areas/Running/Strava Workouts.md"
+    },
+    {
+      "basename": "Areas",
+      "path": "Areas/Areas.md"
     },
     {
       "basename": "Recipes",
@@ -79,6 +51,10 @@
     {
       "basename": "New book",
       "path": "Areas/Personal Home/Reading List/New book.md"
+    },
+    {
+      "basename": "Journal",
+      "path": "Areas/Journal/Journal.md"
     },
     {
       "basename": "Nature's Head Composting Toilet  Nature's Head Australia",
@@ -173,12 +149,24 @@
       "path": "Front Page.md"
     },
     {
+      "basename": "Archives",
+      "path": "Archives.md"
+    },
+    {
       "basename": "Purchase List",
       "path": "Areas/Personal Home/Purchase List.md"
     },
     {
       "basename": "Resources",
       "path": "Resources/Resources.md"
+    },
+    {
+      "basename": "Friday 12th April 2024",
+      "path": "Areas/Journal/Friday 12th April 2024.md"
+    },
+    {
+      "basename": "Wednesday 10th April 2024",
+      "path": "Areas/Journal/Daily/Wednesday 10th April 2024.md"
     },
     {
       "basename": "5 AI job search tools you shouldn't miss",
@@ -199,6 +187,18 @@
     {
       "basename": "Codes",
       "path": "Areas/Personal Home/Codes.md"
+    },
+    {
+      "basename": "Saturday 16th March 2024",
+      "path": "Areas/Journal/Daily/Saturday 16th March 2024.md"
+    },
+    {
+      "basename": "Friday 1st March 2024",
+      "path": "Areas/Journal/Daily/Friday 1st March 2024.md"
+    },
+    {
+      "basename": "Wednesday 21st February 2024",
+      "path": "Areas/Journal/Daily/Wednesday 21st February 2024.md"
     }
   ],
   "omittedPaths": [],
