@@ -32,9 +32,11 @@
         "id": "fee88438093fd867",
         "type": "leaf",
         "state": {
-          "type": "file-explorer",
+          "type": "markdown",
           "state": {
-            "sortOrder": "alphabetical"
+            "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -79,9 +81,19 @@
           "type": "recent-files",
           "state": {}
         }
+      },
+      {
+        "id": "61ee384ad50aab73",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "right": {
     "id": "bd1b01fd50c48925",
@@ -143,7 +155,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e02bba7f5c2d8161",
+  "active": "61ee384ad50aab73",
   "lastOpenFiles": [
     "Areas/Journal/Wednesday 10th April 2024.sync-conflict-20240411-020658-MLRO5E5.md",
     "Areas/Personal Home/Reading List/Reading List.md",
