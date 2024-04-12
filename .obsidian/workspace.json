@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "634439fea9b95e6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Areas/Journal/Daily/Thursday 11th April 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +180,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "29764479a052795f",
+  "active": "634439fea9b95e6e",
   "lastOpenFiles": [
+    "Areas/Journal/Daily/Thursday 11th April 2024.md",
     "Resources/Images/Screenshot_20240412-020844.png",
     "Areas/Journal/Journal.md",
     "Resources/Images",
@@ -186,7 +192,6 @@
     "Archives.md",
     "Resources/Resources.md",
     "Resources/Images",
-    "Areas/Journal/Daily/Thursday 11th April 2024.md",
     "Resources/Images/Screenshot_20240412-021123.png",
     "Resources/Images/Screenshot_20240412-021123 1.png",
     "Areas/My Links/My Links.sync-conflict-20240329-163557-2OPXC73.md",
